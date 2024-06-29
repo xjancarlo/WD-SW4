@@ -60,10 +60,14 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project?
+- The project is a website that showcases different design layouts inspired by Mobile Legends heroes and characters.
+- Whats the purpose?
+- The purpose of the project is to display various web design features and techniques in a fun and engaging way.
+- What are key components?
+- The key components of the project are hero profiles, interactive elements, and different design layouts.
+- What technology used and how it is used?
+- The project uses HTML for structure, CSS for styling, and JavaScript for interactivity to create the website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
