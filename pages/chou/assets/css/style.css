@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.93) 11.2%, rgb(63, 61, 61) 78.9%);
+    background-image: url('../img/chou.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -15,7 +18,8 @@ body {
 .hero-section {
     color: white;
     padding: 280px 0;
-    text-align: center;
+    text-align: left;
+    
 }
 
 .hero-section h1 {
@@ -52,10 +56,37 @@ body {
     color: #6c757d;
 }
 
-.navbar-nav .nav-link, .navbar-brand {
-  color: #ffffff;
+.card {
+    background-color: #33333394; /* Dark background */
+    color: white; /* White text */
+    width: 300px; /* Adjust width as needed */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
 }
 
+.card-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.card-description {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.card-motto{
+    margin-left: 70px;
+    margin-top: 70px;
+    font-size: 3rem;
+    background-color: rgba(116, 116, 116, 0.295);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+.navbar-nav .nav-link, .navbar-brand {
+    color: #ffffff;
+  }
+  
 .navbar-nav .nav-link:hover,.navbar-brand:hover  {
-  color: #cccccc; 
+    color: #cccccc; 
 }
