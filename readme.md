@@ -9,11 +9,11 @@
     <img src="./assets/img/jc-logo.png" alt="jc" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">JAN CARLO HERNANDEZ</h3>
+  <h3 align="center">HERO SECTION</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  BSIT - CST
+  This project is featuring a hero section gallery inspired by Mobile Legends heroes. It showcases various hero characters with vibrant visuals and interactive elements, creating an immersive experience for visitors.
 </div>
 
 <br />
@@ -72,9 +72,8 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Landing Page
+- 4 Hero Section Designs
 
 ### Technology
 <!-- TODO: List of Technology Used -->
