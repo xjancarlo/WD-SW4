@@ -73,7 +73,7 @@ Guiding Question:
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - Landing Page
-- 4 Hero Section Designs
+- 5 Hero Section Designs
 
 ### Technology
 <!-- TODO: List of Technology Used -->
